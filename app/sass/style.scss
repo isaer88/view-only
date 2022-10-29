@@ -1,0 +1,20 @@
+@import "_mixins";
+@import "components/_variebls";
+@import "components/_fonts";
+@import "components/_header";
+@import "components/_components";
+@import "components/_footer";
+
+body {
+  min-width: 450px;
+}
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}

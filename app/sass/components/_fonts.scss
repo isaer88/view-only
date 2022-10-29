@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'Conv_averta-bold';
+  src: url($fonts + 'averta-bold.eot');
+  src: local('☺'), url($fonts + 'averta-bold.woff') format('woff'), url($fonts + 'averta-bold.ttf') format('truetype'), url($fonts + 'averta-bold.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Conv_averta-extrabold';
+  src: url($fonts + 'averta-extrabold.eot');
+  src: local('☺'), url($fonts + 'averta-extrabold.woff') format('woff'), url($fonts + 'averta-extrabold.ttf') format('truetype'), url($fonts + 'averta-extrabold.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SFUIText-Regular';
+  src: url($fonts + 'SFUIText-Regular.eot');
+  src: local('☺'), url($fonts + 'SFUIText-Regular.woff') format('woff'), url($fonts + 'SFUIText-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Conv_Averta Semibold';
+  src: url($fonts + 'Averta Semibold.eot');
+  src: local('☺'), url($fonts + 'Averta Semibold.woff') format('woff'), url($fonts + 'Averta Semibold.ttf') format('truetype'), url($fonts + 'Averta Semibold.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
